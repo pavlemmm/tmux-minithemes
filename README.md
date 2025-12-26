@@ -5,6 +5,24 @@ Minimal and elegant theme system for tmux with multiple color schemes and custom
 [![TPM](https://img.shields.io/badge/tpm--support-true-blue)](https://github.com/tmux-plugins/tpm)
 [![License](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT)
 
+## 👀 Examples
+
+<img width="1910" height="72" alt="1000" src="https://github.com/user-attachments/assets/a87d1fad-f973-4842-bfb7-f56821358c00" />
+<img width="1930" height="97" alt="1001" src="https://github.com/user-attachments/assets/245b9612-705e-4db7-89b1-d55af748900e" />
+<img width="1910" height="24" alt="1002" src="https://github.com/user-attachments/assets/4c4fde01-2400-410a-b959-e5e0308a9a20" />
+<img width="1910" height="24" alt="1003" src="https://github.com/user-attachments/assets/bd600e99-bc19-4358-85be-5773e7aabd9f" />
+
+## ✨ Features
+
+- **Session Information**: Displays session name with visual prefix highlighting
+- **Window & Pane Counts**: Shows the number of windows and panes with custom icons
+- **Current Directory**: Displays the current working directory (shortens `~/` from home)
+- **User & Host**: Shows username and hostname
+- **Prefix Highlighting**: Visual feedback when tmux prefix is active
+- **Customizable Borders**: Themed pane borders and active pane highlighting
+- **Multiple Layouts**: Choose between simple and modern visual styles
+- **Rich Color Schemes**: 9 pre-defined themes with carefully chosen color palettes
+
 ## 📥 Installation
 
 **Install manually**
@@ -127,17 +145,6 @@ set -g @tmux_minithemes_folder_icon ' '
 set -g @tmux_minithemes_windows_icon ' '
 set -g @tmux_minithemes_panes_icon '󰝘 '
 ```
-
-## ✨ Features
-
-- **Session Information**: Displays session name with visual prefix highlighting
-- **Window & Pane Counts**: Shows the number of windows and panes with custom icons
-- **Current Directory**: Displays the current working directory (shortens `~/` from home)
-- **User & Host**: Shows username and hostname
-- **Prefix Highlighting**: Visual feedback when tmux prefix is active
-- **Customizable Borders**: Themed pane borders and active pane highlighting
-- **Multiple Layouts**: Choose between simple and modern visual styles
-- **Rich Color Schemes**: 9 pre-defined themes with carefully chosen color palettes
 
 ## 📋 Requirements
 
