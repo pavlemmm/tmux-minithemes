@@ -8,11 +8,11 @@ Minimal and elegant theme system for tmux with multiple color schemes and custom
 ## 👀 Examples
 
 <img width="1910" height="72" alt="1000" src="https://github.com/user-attachments/assets/a87d1fad-f973-4842-bfb7-f56821358c00" />
-
+<br/><br/>
 <img width="1910" height="72" alt="1001" src="https://github.com/user-attachments/assets/b7af0b00-88f6-47f8-bfcc-f0420f9a6dae" />
-
+<br/><br/>
 <img width="1910" height="24" alt="1002" src="https://github.com/user-attachments/assets/4c4fde01-2400-410a-b959-e5e0308a9a20" />
-
+<br/><br/>
 <img width="1910" height="24" alt="1003" src="https://github.com/user-attachments/assets/bd600e99-bc19-4358-85be-5773e7aabd9f" />
 
 ## ✨ Features
